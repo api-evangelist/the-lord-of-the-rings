@@ -1,0 +1,32 @@
+aid: the-lord-of-the-rings
+name: The Lord of the Rings
+description: "The Lord of the Rings API"
+url: https://the-one-api.dev/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: The Lord of the Rings
+    description: "The Lord of the Rings API"
+    humanURL: https://the-one-api.dev/
+    baseURL: https://the-one-api.dev/
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://the-one-api.dev/
+common:
+  - type: Website
+    url: https://the-one-api.dev/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
