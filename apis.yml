@@ -39,7 +39,6 @@ apis:
   - name: The Lord of the Rings
     description: "The Lord of the Rings API"
     humanURL: https://the-one-api.dev/
-    baseURL: https://the-one-api.dev/
     tags:
       - Video
     properties:
